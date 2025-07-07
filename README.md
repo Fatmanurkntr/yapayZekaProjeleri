@@ -22,11 +22,11 @@ burdaki modeler gibi veya üstteki 7 modelde yer alan dblerle bernzer transfer l
 </pre>
  ![image](https://github.com/user-attachments/assets/5a12ea64-4124-45a1-8156-13b4bfde75e3)
 <pre>
-Şekil 1: NLP HTML Çıktısı
+<b>Şekil 1</b> NLP HTML Çıktısı
 Şekil 2 de üstteki çıktıyı almaya imkan tanıyan BiGRU  derin öğrenme ve -Bilstm derin öğrenme modellerinini hibritlenmesi ve modelin h5 formatında kaydedilmesi görülmektedir. Ayrıca ŞEkil 1’de  yer alan HTML’e veri girişi yapıldığında  app.py ile  şekil 1’deki html’in gelmesine yönelik kodalr vardır. </pre>
  ![image](https://github.com/user-attachments/assets/d01d562c-6afe-456a-bb52-7943661f1b3a)
 
-ŞEkil 2: Model’in fastapi ile localhost’a taşınması <pre>
+<b>Şekil 2</b> Model’in fastapi ile localhost’a taşınması <pre>
 Şekil 1 ve Şekil 2’ye ait kod blokalrı aşağıdaki drivedadır. Ulşamka için Tıklayınız
 https://drive.google.com/drive/folders/15vYa_DoT3Ek009qdFQLNyAEfAZfJOLx2?usp=sharing
 
