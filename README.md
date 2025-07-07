@@ -1,5 +1,5 @@
 # yapayZekaProjeleri
-
+<pre> 
 Mendeley data, google dataset search  en kötü kaggledan sizde arayabilir veya aşağıdaki biizm belirlediğimiz verilerle çalışabilirsiniz
 
 Yapay zeka projelerinden bekeldiklerimiz
@@ -29,3 +29,5 @@ burdaki modeler gibi veya üstteki 7 modelde yer alan dblerle bernzer transfer l
 ŞEkil 2: Model’in fastapi ile localhost’a tşınması
 Şekil 1 ve Şekil 2’ye ait kod blokalrı aşağıdaki drivedadır. Ulşamka için Tıklayınız
 https://drive.google.com/drive/folders/15vYa_DoT3Ek009qdFQLNyAEfAZfJOLx2?usp=sharing
+
+ </pre>
